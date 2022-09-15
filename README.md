@@ -11,3 +11,5 @@ I was previously unsuccessful at sustaining written updates for very long. This 
 I hope that you will also find this format of documentation to be a pleasant one.
 
 I will send links to important documents when they are finished, or I can send them as files if you prefer. The github repository will also be updated with unfinished documents, if you'd like to check on progress. Files with the extension, ".md" (Markdown), will be my notes. Other files will either be embedded in or referenced in a Markdown file as supporting documents. Markdown files will be placed in folders with their supporting documents.
+
+NOTE: The main page of the repository displays this readme file. Click "View code" to view documentation if necessary
