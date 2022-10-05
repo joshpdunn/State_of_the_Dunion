@@ -20,3 +20,12 @@ Mode: extend
 2:   eDP-1-1  (enabled)
 
 END OUTPUT
+
+# Brightness
+ln -s /sys/class/backlight/amdgpu_bl1/brightness bcklt
+
+nvim bcklt
+
+"Change the value"
+
+"Esc" ":w!" "mod+Shift+q"
